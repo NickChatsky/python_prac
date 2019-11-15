@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chatsky Online
 
 You can use the [editor on GitHub](https://github.com/NickChatsky/python_prac/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
